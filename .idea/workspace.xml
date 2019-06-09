@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074b3ecb-bf32-46d5-a7b9-c4d7c8b2224e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Listy_zad01_dom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Listy_Zad01_BezGwiazki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Listy_zad01_dom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Listy_zad01_dom.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,15 +28,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Listy_zad01_dom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="243">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#349#358#0" expanded="true" />
+                <element signature="e#350#359#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Listy_Zad01_BezGwiazki.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -95,6 +104,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Cwiczenia_Typy_Generyczne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia_Typy_Generyczne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -123,8 +139,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Listy_zad01_dom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Listy_zad01_dom" />
+    <configuration name="Listy_zad01_Dom_Z_Gwiazdka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Listy_zad01_Dom_Z_Gwiazdka" />
       <module name="Cwiczenia_Typy_Generyczne" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,7 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Listy_zad01_dom" />
+        <item itemvalue="Application.Listy_zad01_Dom_Z_Gwiazdka" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +174,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
@@ -166,7 +182,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,12 +214,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Listy_zad01_dom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="243">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#349#358#0" expanded="true" />
+            <element signature="e#350#359#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Listy_Zad01_BezGwiazki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>

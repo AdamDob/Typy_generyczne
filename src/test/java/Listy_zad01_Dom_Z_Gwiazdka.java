@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Listy_zad01_dom {
+public class Listy_zad01_Dom_Z_Gwiazdka {
 /*
    Lista wczytujaca ilosc liczb od uzytkownika oraz generujaca losowo ilosc liczb podana przez uzytkownika
    Stwórz listę Integerów. Wykonaj zadania:
